@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 
-I'm **Sushavan**. I am an upcoming pre-final year student at **Manipal University Jaipur**. I am a tech nerd and a space science aficionado.
+I'm **Sushavan**. I am an upcoming pre-final year student at **Manipal University Jaipur**. I am a tech nerd and a Quantum Physics aficionado.
 I would love to have Software Developer or Machine Learning Engineer as my career designation.
 
 ### About
