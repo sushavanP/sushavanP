@@ -9,7 +9,7 @@ I would love to have Software Developer or Machine Learning Engineer as my caree
 ### About
 
 - 🔭 Team person. Always focuses on team goals rather than personal motifs. Always available for my peers.
-- 🌱 You will usually find me at a quiet place with my laptop, trying to crack questions on different codeathons.
+- 🌱 You will usually find me at a quiet place with my laptop, trying to solve questions on different codeathons.
 - 📫 Currently working extensively on building my profile as a **Full Stack Web Developer**. Also, ML is my other affair.
 - 👯 I love connecting with new people not just for the sake of it. I believe in building relationships.
 - 🤔 This list could be never-ending. Lol. I'll just finish it here.
