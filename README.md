@@ -1,7 +1,12 @@
+## Sushavan Paul
+[LinkedIn](https://www.linkedin.com/in/sushavan/) [Twitter](https://twitter.com/SushavanP) [Facebook](https://www.facebook.com/sushavan.paul.524)
+
 ### Hi there 👋
 
+I'm **Sushavan**. I am an upcoming pre-final year student at **Manipal University Jaipur**. I am a tech nerd and a space science aficionado.
+I would love to have Software Developer or Machine Learning Engineer as my career designation.
 
-<--**sushavanP/sushavanP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -18,4 +23,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Did you know Mark Zuckerberg was home tutored by a Software Engineer when he was in high school
      and he was not a Computer Science prodigy?
      Also, I am not prodigy either. ;)
--->
+
