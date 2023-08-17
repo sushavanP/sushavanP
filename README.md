@@ -3,8 +3,7 @@
 
 ### Hi there 👋
 
-I'm **Sushavan**. I am an upcoming pre-final year student at **Manipal University Jaipur**. I am a tech nerd and a Quantum Physics aficionado.
-I would love to have Software Developer or Machine Learning Engineer as my career designation.
+I'm **Sushavan**. I am a Software Engineer currently working at **Unext Learning**. I am a full stack developer building by the day and binge snacking at night.
 
 ### About
 
