@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 
-I'm **Sushavan**. I am a Software Engineer currently working at **Unext Learning**. I am a full stack developer building by the day and binge snacking at night.
+I'm **Sushavan**. I am a Software Engineer currently working at **MeritTrac**. I am a full stack developer building by the day and binge snacking at night.
 
 ### About
 
@@ -18,5 +18,5 @@ I'm **Sushavan**. I am a Software Engineer currently working at **Unext Learning
 - 💬 Ask me about Computer Science, Electronics, Physics and everything in between.
 - 📫 Reach me at my Linkedin given above or mail me at sushavan.paul.524@gmail.com.
 - ⚡ Fun fact - Neural Networks and Quantum Physics tickle my gray cells equally. Also, **the Kolkata Biryani** is my source of happiness.
-- 🤔 Ping me for opportunities in **Web Dev**, **Software Engineering** or in **Machine Learning**.
+- 🤔 Ping me for opportunities, **Software Engineering**.
 
